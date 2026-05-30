@@ -385,6 +385,7 @@ main p {
   justify-content: center;
   align-items: center;
   background-color: #ff7d1a;
+  margin-top: 17px;
   padding: 17px 77px;
   gap: 10px;
   /* width: 326px; */
